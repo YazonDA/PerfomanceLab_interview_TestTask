@@ -9,7 +9,3 @@ print(f'{numpy.median(w_arr):.2f}')
 print(f'{numpy.amax(w_arr):.2f}')
 print(f'{numpy.amin(w_arr):.2f}')
 print(f'{numpy.mean(w_arr):.2f}')
-
-# ToDo ... maybe later:
-# def print_f(metric):
-# 	  print(f'{metric:.2f}')
